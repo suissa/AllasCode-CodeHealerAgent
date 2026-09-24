@@ -1,6 +1,6 @@
-# debug-gym: A Text-Based Environment for Interactive Debugging
+# AllasCode - CodeHealerAgent
 
-`debug-gym` is a text-based interactive debugging framework, designed for debugging Python programs.
+`CodeHealerAgent` is a text-based interactive debugging framework, designed for debugging Zig programs.
 
 [[Technical Report](https://arxiv.org/abs/2503.21557)] [[Project Page](https://aka.ms/debug-gym/)]
 
